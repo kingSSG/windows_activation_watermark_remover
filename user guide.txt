@@ -1,0 +1,8 @@
+1.just run the removetool.bat as adminestator ;
+2.if not working just go to the taskmanager > Startups and then enable removewindowatermark 
+3.restart the pc and you are good to go
+
+***** plse do not make any changes in the script *****
+having any problem DM on suvojit.sengupta.rdx@gmail.com
+
+thank you 
